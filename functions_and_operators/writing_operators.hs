@@ -17,6 +17,7 @@ s *** n = s ++ (s *** (n - 1))
 -- infix (non associative)
 -- 0-9 precedence level (9 being highest)
 
+
 main = do 
     putStrLn ("hello" *** 2)
     putStrLn ("na" *** 8)
