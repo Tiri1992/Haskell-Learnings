@@ -1,4 +1,3 @@
-import Distribution.SPDX (LicenseExceptionId(Swift_exception))
 -- Creating custom data types
 
 -- Use the data keyword to create custom types
